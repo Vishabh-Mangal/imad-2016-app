@@ -1,0 +1,19 @@
+h1 {
+	font-size: 300%;
+	text-decoration: underline;
+	color: green;
+}
+
+p {
+	color: white;
+}
+
+body {
+	text-align: center;	
+	background-color: lightgreen;
+	margin-top: 175px;
+}
+
+ol {
+	color: brown;
+}
